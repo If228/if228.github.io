@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+p {
+    color:darkolivegreen;
+    font-size: 30px;
+    font-family: 'Birthstone', cursive;
+}
+h1{
+    color:gold;
+    font-size: 40px;
+}
+h2{
+    color: firebrick;
+    font-size: 35px;
+}
+div{
+    width: 70%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    font-size: 24px;
+    color: dodgerblue;
+}
